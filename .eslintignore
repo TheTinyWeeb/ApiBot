@@ -1,0 +1,5 @@
+*.d.ts
+*.js
+*.html
+
+#ignoring the js and the d.ts and the html files
